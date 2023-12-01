@@ -53,7 +53,7 @@ Se adjunta el plano utilizado con los pines definidos del proyecto.
 
 Una vez realizado los modulos, se sinterizan y se compilan en el quartus; donde no obtuvimos ningun error, y se procede a subir el proyecto a la tarjeta altera.
 
-![ejemplo4](figs/receo.png)
+![ejemplo4](figs/IMG_8944.jpg)
 
 Donde como podemos ver, el proyecto funciona correctamente.
 
