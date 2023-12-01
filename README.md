@@ -39,9 +39,33 @@ Para el desarrollo del proyecto se crearon 5 modulos vhdl con un top en donde ca
 
 - HCRS05_v2: Este es muestro top, donde utiliza los módulos anteriores para medir una distancia con un sensor ultrasónico y mostrarlo en un display de 7 segmentos.
 
+![ejemplo2](figs/dos.png)
+
 De igual forma, se adjunta el proyecto en la carpeta prueba2, con todos los codigos y simulaciones realizadas.
 
-## 5. Desarrollo
+## 5. Plano de pines
+
+Se adjunta el plano utilizado con los pines definidos del proyecto.
+
+![ejemplo3](figs/receo.png)
+
+## 6. Simulacion y Resultados
+
+Una vez realizado los modulos, se sinterizan y se compilan en el quartus; donde no obtuvimos ningun error, y se procede a subir el proyecto a la tarjeta altera.
+
+![ejemplo4](figs/receo.png)
+
+Donde como podemos ver, el proyecto funciona correctamente.
+
+## 7. Conclusiones
+
+El diseño del proyecto podría plantearse en los carros modernos y es una solución para la gente con problemas de escucha o sordera. El apartado económico del proyecto es bastante viable por lo que es posible planteárselo a alguna compañía fabricadora de carros.
+
+
+
+
+
+
 
 
 
