@@ -59,7 +59,7 @@ Donde como podemos ver, el proyecto funciona correctamente.
 
 De igual manera, se adjunta el diagrama RTL del proyecto.
 
-![ejemplo24](figs/doss.jpg)
+![ejemplo24](figs/doss.png)
 
 ## 7. Conclusiones
 
@@ -69,7 +69,7 @@ El diseño del proyecto podría plantearse en los carros modernos y es una soluc
 
 Se adjunta el video del prototipo funcionando.
 
-
+https://drive.google.com/file/d/15gdJpJKb_S8pymzCG8KU7yPnQiQzvHDt/view?usp=sharing
 
 Se adjunta una presentacion explicando el proyecto de la asignatura planteado.
 
