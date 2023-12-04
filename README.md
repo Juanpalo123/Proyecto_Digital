@@ -57,16 +57,20 @@ Una vez realizado los modulos, se sinterizan y se compilan en el quartus; donde 
 
 Donde como podemos ver, el proyecto funciona correctamente.
 
+De igual manera, se adjunta el diagrama RTL del proyecto.
+
+![ejemplo24](figs/doss.jpg)
+
 ## 7. Conclusiones
 
 El diseño del proyecto podría plantearse en los carros modernos y es una solución para la gente con problemas de escucha o sordera. El apartado económico del proyecto es bastante viable por lo que es posible planteárselo a alguna compañía fabricadora de carros.
 
+## 8. Anexos
+
+Se adjunta el video del prototipo funcionando.
 
 
 
+Se adjunta una presentacion explicando el proyecto de la asignatura planteado.
 
-
-
-
-
-
+https://drive.google.com/file/d/1CStep5q2HHGl9DFznBeJ7BUN9g_N6xJY/view?usp=sharing
